@@ -1,3 +1,3 @@
 FROM alpine
 
-RUN touch /a2.txt
+RUN touch /a3.txt
